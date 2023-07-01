@@ -1,0 +1,12 @@
+{
+  "text": {
+    "primary": {
+      "value": "#F7FBFA",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "#686a6c",
+      "type": "color"
+    }
+  }
+}
