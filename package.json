@@ -13,6 +13,6 @@
     "build-transform-light": "npx token-transformer tokens.json tokens/light.json global,light,theme global",
     "build-transform-dark": "npx token-transformer tokens.json tokens/dark.json global,dark,theme global",
     "build-transform": "yarn build-transform-global && yarn build-transform-light && yarn build-transform-dark",
-    "build-sd": "node build.js"
+    "build": "node build.js"
   }
 }
